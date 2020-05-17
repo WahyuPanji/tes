@@ -1,2 +1,2 @@
-# tes
+# UAS
 Mencoba hitung 
